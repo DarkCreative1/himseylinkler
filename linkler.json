@@ -1,0 +1,118 @@
+{
+  "minecraft": {
+    "BoxPvP": {
+      "version": "v1.16.5",
+      "size": "210 MB",
+      "description": "PvP odaklı Minecraft sunucusu.",
+      "url": "https://github.com/kullanici/proje/raw/main/minecraft_boxpvp.zip"
+    },
+    "Skyblock": {
+      "version": "v1.21.1",
+      "size": "390 MB",
+      "description": "Skyblock macerası için optimize edilmiş paket.",
+      "url": "https://github.com/kullanici/proje/raw/main/minecraft_skyblock.zip"
+    },
+    "Survival": {
+      "version": "v1.20.1",
+      "size": "2.0 GB",
+      "description": "Klasik survival Minecraft deneyimi.",
+      "url": "https://github.com/kullanici/proje/raw/main/minecraft_survival.zip"
+    },
+    "Faction": {
+      "version": "v1.20.1",
+      "size": "2.3 GB",
+      "description": "Faction savaşları için hazır Minecraft sunucusu.",
+      "url": "https://github.com/kullanici/proje/raw/main/minecraft_faction.zip"
+    }
+  },
+  "mta": {
+    "Roleplay": {
+      "version": "v1.0",
+      "size": "1.5 GB",
+      "description": "Roleplay server için hazır paket.",
+      "url": "https://github.com/kullanici/proje/raw/main/mta_roleplay.zip"
+    },
+    "Drift": {
+      "version": "v1.2",
+      "size": "1.3 GB",
+      "description": "Drift odaklı sunucu paketi.",
+      "url": "https://github.com/kullanici/proje/raw/main/mta_drift.zip"
+    },
+    "Freeroam": {
+      "version": "v1.1",
+      "size": "1.1 GB",
+      "description": "Klasik freeroam oyun modu.",
+      "url": "https://github.com/kullanici/proje/raw/main/mta_freeroam.zip"
+    },
+    "Zombie": {
+      "version": "v0.9",
+      "size": "1.6 GB",
+      "description": "Zombie hayatta kalma modu.",
+      "url": "https://github.com/kullanici/proje/raw/main/mta_zombie.zip"
+    },
+    "Deathmatch": {
+      "version": "v2.0",
+      "size": "1.4 GB",
+      "description": "PvP odaklı deathmatch modu.",
+      "url": "https://github.com/kullanici/proje/raw/main/mta_deathmatch.zip"
+    }
+  },
+  "rust": {
+    "Roleplay": {
+      "version": "v3.2",
+      "size": "2.5 GB",
+      "description": "Rol yapma için optimize edilmiş Rust paketi.",
+      "url": "https://github.com/kullanici/proje/raw/main/rust_roleplay.zip"
+    },
+    "Vanilla": {
+      "version": "v3.2",
+      "size": "2.2 GB",
+      "description": "Orijinal deneyim için Vanilla Rust paketi.",
+      "url": "https://github.com/kullanici/proje/raw/main/rust_vanilla.zip"
+    },
+    "Modlu": {
+      "version": "v3.2",
+      "size": "3.1 GB",
+      "description": "Ekstra plugin ve özelliklerle modlu Rust paketi.",
+      "url": "https://github.com/kullanici/proje/raw/main/rust_modlu.zip"
+    },
+    "PvP": {
+      "version": "v3.2",
+      "size": "2.7 GB",
+      "description": "Savaş odaklı PvP Rust paketi.",
+      "url": "https://github.com/kullanici/proje/raw/main/rust_pvp.zip"
+    },
+    "Survival": {
+      "version": "v3.2",
+      "size": "2.9 GB",
+      "description": "Hayatta kalma odaklı Rust paketi.",
+      "url": "https://github.com/kullanici/proje/raw/main/rust_survival.zip"
+    }
+  },
+  "unturned": {
+    "PvP": {
+      "version": "v1.0",
+      "size": "1.2 GB",
+      "description": "PvP odaklı Unturned paketi.",
+      "url": "https://github.com/kullanici/proje/raw/main/unturned_pvp.zip"
+    },
+    "Survival": {
+      "version": "v1.0",
+      "size": "1.4 GB",
+      "description": "Survival odaklı Unturned paketi.",
+      "url": "https://github.com/kullanici/proje/raw/main/unturned_survival.zip"
+    },
+    "Roleplay": {
+      "version": "v1.0",
+      "size": "1.6 GB",
+      "description": "Roleplay için optimize edilmiş Unturned paketi.",
+      "url": "https://github.com/kullanici/proje/raw/main/unturned_roleplay.zip"
+    },
+    "Modlu": {
+      "version": "v1.0",
+      "size": "1.8 GB",
+      "description": "Eklentili ve özellikli modlu Unturned paketi.",
+      "url": "https://github.com/kullanici/proje/raw/main/unturned_modlu.zip"
+    }
+  }
+}
